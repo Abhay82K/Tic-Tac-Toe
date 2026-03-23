@@ -2,19 +2,9 @@
 
 An interactive and fun **Tic Tac Toe Game** built using **HTML, CSS, and JavaScript**. Play with a friend and enjoy a smooth and responsive gaming experience.
 
----
-
 ## 🚀 Live Demo
 
-🔗 [Play Game](https://your-live-link.com)
-
----
-
-## 📸 Preview
-
-(Add your game screenshot here)
-
----
+🔗 https://abhay82k.github.io/Tic-Tac-Toe/
 
 ## ✨ Features
 
@@ -24,15 +14,11 @@ An interactive and fun **Tic Tac Toe Game** built using **HTML, CSS, and JavaScr
 * 📱 Responsive design (Mobile + Desktop)
 * 🎯 Simple and clean UI
 
----
-
 ## 🛠️ Tech Stack
 
 * **HTML5** – Structure
 * **CSS3** – Styling
 * **JavaScript** – Game logic
-
----
 
 ## 📂 Folder Structure
 
@@ -42,8 +28,6 @@ tic-tac-toe/
 │── style.css
 │── script.js
 ```
-
----
 
 ## ⚙️ How to Run Locally
 
@@ -56,8 +40,6 @@ git clone https://github.com/your-username/tic-tac-toe.git
 2. Open folder
 3. Run `index.html` in browser
 
----
-
 ## 💡 Future Improvements
 
 * 🤖 Add AI (Play vs Computer)
@@ -65,22 +47,16 @@ git clone https://github.com/your-username/tic-tac-toe.git
 * 🌙 Dark mode
 * 🎨 Better animations
 
----
-
 ## 🙋‍♂️ Author
 
 **Abhay Kumar**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
+* GitHub: https://github.com/Abhay82K
+* LinkedIn: www.linkedin.com/in/abhaykr21
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
----
 
 ## 📄 License
 
